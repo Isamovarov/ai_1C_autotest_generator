@@ -70,6 +70,10 @@ EDT-MCP является **единственным источником ист�
 
 ## Vanessa Automation AI
 
+Repository:
+
+https://github.com/1c-neurofish/onec-client-mcp-devkit
+
 Documentation:
 
 https://github.com/Pr-Mex/vanessa-automation/blob/develop/docs/AI/index.md
